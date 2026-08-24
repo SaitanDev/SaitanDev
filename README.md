@@ -1,49 +1,104 @@
-👋 Hi, I'm SaitanDev
+# 👋 Hi, I'm SaitanDev
 
-Android Developer • Kotlin • Jetpack Compose
+### Android Developer • Kotlin • Jetpack Compose
 
-I’m an Android Developer passionate about building modern, clean, and user-friendly mobile applications. I enjoy turning ideas into reliable Android experiences with a focus on performance, clean architecture, and great UI.
+I'm an **Android Developer** focused on building modern, reliable, and user-friendly mobile applications. I enjoy transforming ideas into polished Android experiences with an emphasis on **clean architecture, maintainable code, performance, and intuitive UI**.
 
----
-
-🛠️ Tech Stack
-
-- Languages: Kotlin, Java
-- Android: Android SDK, Jetpack, Jetpack Compose
-- Architecture: MVVM, Clean Architecture
-- Libraries: Coroutines, Flow, Room, Retrofit
-- Tools: Android Studio, Git, GitHub
-- Backend & Services: REST APIs, Firebase
+I'm continuously learning and exploring the latest Android technologies while building projects that solve real-world problems.
 
 ---
 
-🚀 What I Do
+## 🛠️ Tech Stack
 
-- 📱 Build modern Android applications
-- 🎨 Create clean and responsive UIs with Jetpack Compose
-- 🧩 Design maintainable and scalable app architectures
-- 🔌 Integrate REST APIs and third-party services
-- ⚡ Focus on performance, reliability, and user experience
-- 📚 Continuously learn and explore new Android technologies
+### 📱 Android Development
+
+* Kotlin
+* Java
+* Android SDK
+* Jetpack
+* Jetpack Compose
+* Material Design
+
+### 🏗️ Architecture & Development
+
+* MVVM
+* Clean Architecture
+* Repository Pattern
+* Coroutines
+* Kotlin Flow
+
+### 💾 Data & Networking
+
+* Room
+* Retrofit
+* REST APIs
+* Firebase
+
+### 🔧 Tools & Platforms
+
+* Android Studio
+* Git
+* GitHub
+* Gradle
 
 ---
 
-📌 Featured Projects
+## 🚀 What I Do
 
-«🚧 Projects coming soon...»
-
-Check out my repositories for experiments, Android projects, and things I'm currently building.
+* 📱 Build modern Android applications with **Kotlin and Jetpack Compose**
+* 🎨 Design clean, responsive, and accessible user interfaces
+* 🏗️ Develop scalable applications using **MVVM and Clean Architecture**
+* 🔌 Integrate REST APIs and third-party services
+* 💾 Implement reliable local data storage with Room
+* ⚡ Focus on performance, stability, and maintainability
+* 🧪 Write clean, testable, and reusable code
+* 📚 Continuously learn and experiment with modern Android technologies
 
 ---
 
-📊 GitHub
+## 📌 Featured Projects
 
-"SaitanDev's GitHub Stats" (https://github-readme-stats.vercel.app/api?username=SaitanDev&show_icons=true&hide_border=true&count_private=true)
+I'm currently building and experimenting with Android projects focused on modern development practices.
+
+> 🚧 **Projects are currently being added. Stay tuned!**
+
+In the meantime, feel free to explore my repositories for Android experiments, learning projects, and ongoing development work.
 
 ---
 
-🤝 Let's Connect
+## 📊 GitHub Stats
 
-If you're interested in Android development, open source, or building something cool, feel free to connect with me.
+<div align="center">
 
-Keep building. Keep learning. 🚀
+<img src="https://github-readme-stats.vercel.app/api?username=SaitanDev&show_icons=true&hide_border=true&count_private=true" alt="SaitanDev's GitHub Stats" />
+
+</div>
+
+---
+
+## 🎯 Current Focus
+
+* 📱 Advanced **Jetpack Compose**
+* 🏗️ Scalable Android architecture
+* ⚡ Performance optimization
+* 🧪 Testing and code quality
+* 🌐 Modern API integration
+* 🚀 Building production-ready Android applications
+
+---
+
+## 🤝 Let's Connect
+
+I'm always interested in **Android development, open source, technology, and building useful products**.
+
+If you'd like to collaborate, exchange ideas, or build something together, feel free to connect.
+
+### 💡 Keep Building. Keep Learning. Keep Improving. 🚀
+
+---
+
+<div align="center">
+
+**Thanks for visiting my profile! ⭐**
+
+</div>
